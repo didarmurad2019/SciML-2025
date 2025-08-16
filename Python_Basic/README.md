@@ -6,17 +6,6 @@ A quick reference guide for beginners:
 ```python
 print("Hello, World!")
 
-# Keywords and Variables
-
-After completing the simple python tutorial your kids will develop proficiency in the Python framework and eventually about creating and building fun games and projects
-
-| Term            | What It Means                                    |
-| --------------- | ------------------------------------------------ |
-| **Class**       | A recipe or blueprint for creating objects       |
-| **Object**      | A real item made using the class                 |
-| **Method**      | A function that belongs to an object             |
-| **Data member** | A variable that stores information in the object |
-
 # Variables
 
 name = "Alice"      # string
