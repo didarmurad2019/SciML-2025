@@ -1,20 +1,24 @@
 # 🖥️ Local Installation
 <br>
-Install Julia
+Step 1: First we need to download & install Julia's setup.
 <br>
-Download from the official site: https://julialang.org/downloads
+        link:  https://julialang.org/downloads
+<br>  
+Step 2: We need to install the 'Julia' extension in VS Code for Julia programming language support like autocompletion,
 <br>
-After installation, you can run Julia from the terminal by typing julia.
+inline results, plot pane, variable view, code navigation, and many other advanced language features. 
 <br>
-Interactive REPL
+Step 3: Julia exe path setup in VS code : File ---preferences--settings -- type julia.executablePath  in search 
 <br>
-When you run julia, you’ll enter the Julia REPL (read–eval–print loop) where you can type and run code line by line.
+        path : C:\Users\Mac Win\AppData\Local\Programs\Julia-1.7.1\bin\julia.exe
+        <br>
+         Restart VS code now.
 <br>
-VS Code with Julia extension
+Step 4: Create and Run a Julia file.
 <br>
-Install VS Code and the Julia extension.
-<br>
-This gives you a full editor + debugger for Julia.
+        The VS Code command Run: Start Without Debugging (Ctrl+F5) by default starts a new Julia instance and runs the 
+ <br>       
+        currently active Julia file. The command automatically creates a new VS Code terminal for this Julia process.
 
 # 🌐 Online Options (no installation needed)
 
