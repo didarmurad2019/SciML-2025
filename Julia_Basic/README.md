@@ -10,7 +10,7 @@ inline results, plot pane, variable view, code navigation, and many other advanc
 <br>
 Step 3: Julia exe path setup in VS code : File ---preferences--settings -- type julia.executablePath  in search 
 <br>
-        path : C:\Users\Mac Win\AppData\Local\Programs\Julia-1.7.1\bin\julia.exe
+        path : C:\Users\Digi Laptop\AppData\Local\Programs\Julia-1.12.1\bin\julia.exe
         <br>
          Restart VS code now.
 <br>
